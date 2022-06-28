@@ -70,6 +70,26 @@ body {
   	bottom:   2px;
 }
 
+.stats {
+  position: absolute;
+  left:     20px;
+  top:   200px;
+}
+
+.twohead {
+  position: absolute;
+  left:     200px;
+  top:   200px;
+}
+
+.statstwo {
+  position: absolute;
+  left:     200px;
+  top:   300px;
+}
+
+
+
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
